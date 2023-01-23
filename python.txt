@@ -1,0 +1,11 @@
+python -m pip install pandas
+python -m pip install numpy
+python -m pip install openpyxl
+python -m pip install xlrd
+python -m pip install pyyaml
+python -m pip install auto-py-to-exe
+python -m pip install configparser
+python -m pip install python-docx
+
+python list
+C:\Python\Python38\Scripts\auto-py-to-exe

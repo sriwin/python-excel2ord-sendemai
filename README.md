@@ -1,0 +1,17 @@
+## Instructions
+- Install Python 3.8
+- Clone the repo to your local folder
+- Open the project in VS Code
+- Install the below python packages
+  - python -m pip install pandas
+  - python -m pip install numpy
+  - python -m pip install openpyxl
+  - python -m pip install xlrd
+  - python -m pip install pyyaml
+  - python -m pip install auto-py-to-exe
+  - python -m pip install configparser
+  - python -m pip install python-docx
+- Utility Command
+  - python list
+- Creating "exe" file
+  - C:\Python\Python38\Scripts\auto-py-to-exe   
